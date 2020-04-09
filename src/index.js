@@ -4,8 +4,7 @@ import Greeting from 'components/Greeting';
 import StudentRecords from 'components/StudentRecords';
 import Head from 'components/Head';
 import Topics from 'components/Topics';
-import Content from 'components/Content'
-
+import Content from 'components/Content';
 
 import 'css/index.css';
 
