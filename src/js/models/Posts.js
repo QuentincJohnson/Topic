@@ -1,85 +1,85 @@
-const Posts = [
-    art = {
+const Posts = {
+    art:{
         user: "Art_Master",
         title: "Bob Ross Paintings",
         img: "img/art.jpeg",
     },
-    vg = {
+    vg:{
         user: "Game_Master",
         title: "Danganronpa",
         img: "img/dangan.jpg",
     },
-    tech = {
+    tech:{
         user: "Tech_Master",
         title: "New IPhone 12",
         img:  "img/tech.jpg",
     },
-    comics = {
+    comics:{
         user:"Comic_Master",
         title: "Avengers",
         img: "img/comic.jpg",
     },
-    tv = {
+    tv:{
         user:"TV_Master",
         title:"Love Island",
         img: "img/tv.png",
     },
-    movies = {
+    movies:{
         user: "Movie_Man",
         title: "Joker HD: A master piece",
         img: "img/joker.jpg",
     },
-    anime = {
+    anime:{
         user: "Anime_Man",
         title: "FMA Brotherhood",
         img: "img/anime.jpg",
     },
-    cartoons = {
+    cartoons:{
         user: "Cartoon_Man",
         title: "Johnny Test Thread",
         img: "img/cartoon.png",
     },
-    fashion = {
+    fashion:{
         user: "Fashion_Guru",
         title: "Yankee With no Brim",
         img:"img/fashion.jpg",
     },
-    music = {
+    music:{
         user: "Popstart",
         title: "Lil Uzi Eternal Atake",
         img: "img/music.jpg",
     },
-    politics = {
+    politics:{
         user: "Political_user",
         title: "2020 Amarican Election",
         img: "img/politics.png",
     },
-    news = {
+    news:{
         user:"News_caster",
         title: "Olympics Cancelled",
         img: "img/news.jpg",
     },
-    wall ={
+    wall:{
         user: "Wall_Guy",
         title: "Minimilistic Wallpapers",
         img: "img/wall.jpg",
     },
-    food ={
+    food:{
         user:"Foodie_Girl",
         title:"Italian Food General",
         img:"img/food.jpg",
     },
-    fitness ={
+    fitness:{
         user:"Fit_Girl",
         title:"Home Fitness",
         img:"img/fitness.jpeg",
     },
-    comedy ={
+    comedy:{
         user: "Funny_Guy",
         title: "You Laugh You Loose",
         img:"img/comedy.png",
     } 
-]
+};
 
 export default Posts
     
