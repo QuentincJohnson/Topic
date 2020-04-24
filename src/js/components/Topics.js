@@ -1,13 +1,16 @@
 import React from 'react';
+import { useState } from 'react'
 import "css/index.css";
 
-const Topics = () =>{
-  
+
+const Topics = (props) =>{
+
+    const [Cat, setCat] = useState('welcome')
     return (
         <section className="char-section">
               <ul className="chars">
-                  <li>Art</li>
-                  <li>Video Games</li>
+                  <li onClick={()=> setCat('art')}>Art</li>
+                  <li onClick={()=> setCat('vg')}> VideoGames</li>
                   <li>Technology</li>
                   <li>Comics</li>
                   <li>Movies</li>

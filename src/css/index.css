@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 /*----------------------------------------------------------
   Inspired by/taken code where offered from:
   Eric Meyer  :: http://meyerweb.com
@@ -195,7 +195,7 @@ button, [type="button"], [type="submit"] {
 }
 
 body{
-    font-family: 'Sen', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 .head-grid{
     display: grid;

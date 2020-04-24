@@ -4,8 +4,8 @@ import "css/index.css";
 
 const Foot = () => {
 	return (
-        <footer class="foot-margin">
-            <ul class="foot-grid">
+        <footer className="foot-margin">
+            <ul className="foot-grid">
                 <li>Privacy</li>
                 <li>Contact</li>
                 <li>Help</li>

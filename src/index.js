@@ -13,7 +13,6 @@ const App = () => {
 		<>
 			<Head/>
 			<main className="main-grid">
-				<Topics/>
 				<Content/>
 			</main>
 		</>

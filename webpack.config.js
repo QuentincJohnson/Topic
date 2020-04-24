@@ -30,7 +30,7 @@ module.exports = {
 		alias: {
 			components: path.resolve(__dirname, 'src/js/components'),
 			css: path.resolve(__dirname, 'src/css/'),
-			img: path.resolve(__dirname, 'src/img/'),
+			img: path.resolve(__dirname, 'public/img/'),
 		}
 	}
 };

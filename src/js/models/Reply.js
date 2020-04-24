@@ -17,4 +17,4 @@ Reply = {
     comedy: 22
 };
 
-export default Reply
+module.exports = Reply

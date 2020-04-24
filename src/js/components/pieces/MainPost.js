@@ -3,6 +3,7 @@ import Above from 'components/pieces/Above'
 import "css/index.css";
 
 const MainPost = (props) =>{
+    console.log(props.img)
  
     return (
         <section className="Main-Post">
