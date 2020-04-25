@@ -11,7 +11,6 @@ import 'css/index.css';
 const App = () => {
 	return (
 		<>
-			<Head/>
 			<main className="main-grid">
 				<Content/>
 			</main>

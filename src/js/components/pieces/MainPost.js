@@ -8,8 +8,8 @@ const MainPost = (props) =>{
     return (
         <section className="Main-Post">
             <Above user={props.user}/>
-            <div className="main-grid">
-                <img src={props.img} alt="img" className="thread-img"/>
+            <div className="main-post-grid main-grid">
+                <div className="thread-img"><img src={props.img} alt="img"/></div>
                 <div className="thread-content">
                     <h1>{props.title}</h1>
                     <p>

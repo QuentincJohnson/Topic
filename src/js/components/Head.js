@@ -6,9 +6,8 @@ const Head = () => {
 	return (
         <header>
             <ul className="head-grid">
-                <li>Logo</li>
-                <li>Topic</li>
-                <li>Profile pic </li>
+                <li><img src="/public/img/Artboard 1@0.5x-8.png" alt="topic-logo" class="logo"></img></li>
+                <li class="profile"><i class="fas fa-male"></i></li>
             </ul>
         </header>
     )
