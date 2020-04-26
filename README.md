@@ -1,23 +1,8 @@
-# Quick React Demo
+This project showcases a reactive app simmiler to Reddit
 
-A quick React demo and test. To run from the command line (in this root folder):
+in this app you can choose form a category or "Topic"
+the websites content will change to that Topics content. 
+the image, title, posters username, and number of replys change for each Topic
 
-## 1. Install the Node Modules
+the topic logo is an origonal Logo created by Me.
 
-```shell
-npm install
-```
-
-## 2. Run the Webpack Server
-
-```shell
-npm start
-```
-
-## 3. Build the public files ("dist")
-
-Only required when publishing live online.
-
-```shell
-npm run build
-```

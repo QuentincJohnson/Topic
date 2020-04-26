@@ -51,7 +51,7 @@ const Posts = {
     },
     politics:{
         user: "Political_user",
-        title: "2020 Amarican Election",
+        title: "2020 American Election",
         img: "/public/img/politics.png",
     },
     news:{
