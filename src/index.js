@@ -11,7 +11,7 @@ import 'css/index.css';
 const App = () => {
 	return (
 		<>
-			<main className="main-grid">
+			<main className="main-grid main-grid-m-fix">
 				<Content/>
 			</main>
 		</>

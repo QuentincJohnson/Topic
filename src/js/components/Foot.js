@@ -6,9 +6,9 @@ const Foot = () => {
 	return (
         <footer className="foot-margin">
             <ul className="foot-grid">
-                <li>Privacy</li>
-                <li>Contact</li>
                 <li>Help</li>
+                <li>More</li>
+                <li>Privacy</li>
             </ul>
         </footer>
     )
